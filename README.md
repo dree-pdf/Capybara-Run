@@ -1,6 +1,3 @@
-# Capybara-Run
-Can you survive as a capybara?
-
 # Capivara Run 🐾
 
 Um jogo eletrônico de corrida infinita (endless runner) para navegador, inspirado no clássico jogo do dinossauro do Google Chrome, ambientado no bioma do Pantanal brasileiro.
